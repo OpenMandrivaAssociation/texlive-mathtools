@@ -1,6 +1,6 @@
 Name:		texlive-mathtools
-Version:	63767
-Release:	2
+Version:	70838
+Release:	1
 Summary:	Mathematical tools to use with amsmath
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathtools

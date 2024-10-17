@@ -3,7 +3,7 @@ Version:	70838
 Release:	1
 Summary:	Mathematical tools to use with amsmath
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mathtools
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mathtools
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathtools.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mathtools.doc.r%{version}.tar.xz

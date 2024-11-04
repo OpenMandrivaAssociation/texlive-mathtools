@@ -1,5 +1,5 @@
 Name:		texlive-mathtools
-Version:	70838
+Version:	72487
 Release:	1
 Summary:	Mathematical tools to use with amsmath
 Group:		Publishing
